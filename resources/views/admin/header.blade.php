@@ -32,6 +32,15 @@
                 <li class="nav-item d-none d-sm-inline-block">
                     <a href="#" class="nav-link">Contact</a>
                 </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="/admin/pasien" class="nav-link">Pasien</a>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="/admin/dokter" class="nav-link">Dokter</a>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="/admin/periksa" class="nav-link">Periksa</a>
+                </li>
             </ul>
 
             <!-- Right navbar links -->
